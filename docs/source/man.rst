@@ -72,5 +72,10 @@ To view the local man page use the `-l, --local-file` option like so
 
 	man -l testproj.1
 
+.. image:: images/pandoc-man-01.png
+    :align: center
+    :scale: 100%
+
+
 
 
