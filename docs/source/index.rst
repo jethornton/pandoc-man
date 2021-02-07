@@ -10,7 +10,7 @@ Welcome to Pandoc Man Pages's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+    man
 
 Indices and tables
 ==================
