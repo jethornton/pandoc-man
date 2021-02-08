@@ -1,5 +1,5 @@
 %TESTPROJ(1) Test Project Man Page
-%John Doe
+%John B Doe, Jane Q Doe
 %Feburary 7, 2021
 
 # NAME
@@ -10,6 +10,3 @@ How to create a man page using Pandoc Man
 
 # BUGS
 None
-
-#AUTHORS
-John Doe and Jane Doe

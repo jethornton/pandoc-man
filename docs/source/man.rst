@@ -14,7 +14,7 @@ testproj.1.md
 ::
 
 	%TESTPROJ(1) Test Project Man Page
-	%John Doe
+	%John B Doe, Jane Q Doe
 	%Feburary 7, 2021
 
 
@@ -25,13 +25,14 @@ DESCRIPTION,  OPTIONS, EXIT STATUS,  RETURN VALUE,  ERRORS,
 ENVIRONMENT,  FILES, VERSIONS, CONFORMING TO, NOTES, BUGS, EXAMPLE,
 AUTHORS, and SEE ALSO.
 
-Adding to our man page a couple of sections.
+Adding to our man page a couple of sections. Note that AUTHORS is
+created in the header.
 
 testproj.1.md
 ::
 
 	%TESTPROJ(1) Test Project Man Page
-	%John Doe
+	%John B Doe, Jane Q Doe
 	%Feburary 7, 2021
 	
 	# NAME
@@ -42,9 +43,6 @@ testproj.1.md
 	
 	# BUGS
 	None
-	
-	#AUTHORS
-	John Doe and Jane Doe
 
 
 To create the man file from the markdown file use the following syntax
